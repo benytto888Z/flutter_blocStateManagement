@@ -20,7 +20,7 @@ List<Menu> menus = [
       route: "/counter_bloc",
       itemIcone: Icon(Icons.timer, color: Colors.indigo)),
   Menu(
-      itemTitle: "Git Users",
+      itemTitle: "Git Api Users Bloc",
       route: "/git_users",
       itemIcone: Icon(Icons.person, color: Colors.indigo)),
  
